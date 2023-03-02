@@ -1,5 +1,11 @@
 # @justin-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- 97d0ad3: Including toast and tooltip
+
 ## 2.0.1
 
 ### Patch Changes
